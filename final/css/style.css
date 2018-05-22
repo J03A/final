@@ -1,0 +1,173 @@
+.todo {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+header {
+	width: 100%;
+	background-color: #1b2f36;
+	text-align: center;
+	height: 230px;
+	padding-top: 30px;
+}
+
+.logo {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+nav {
+	width: 100%;
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	padding: 30px 40px;
+
+}
+
+a {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.activo {
+
+	font-weight: 800;
+}
+
+a:hover {
+
+	font-family: 'Kavivanar', cursive;
+}
+
+.slide, .compra, .info, .contactos {
+	max-width: 1200px;
+	text-align: center;
+
+}
+
+.compra {
+	overflow: hidden;
+}
+
+
+.far {
+	font-size: 4em;
+	padding-top: 35%;
+}
+
+.uno {
+float: left;
+width: 300px;
+padding: 40px;
+
+}
+
+.producto {
+
+	width: 300px;
+}
+
+.flecha {
+	color:  #1b2f36;
+	padding-top: 30%;
+}
+
+.dos {
+	float: left;
+	width: 330px;
+	border: 2px solid black;
+	padding: 10px;
+	margin: 10px;
+}
+
+.nombre {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 800;
+	font-size: 1.1em;
+}
+
+.precio {
+	font-family: 'Open Sans', sans-serif;
+	color:  orange;
+	font-size: 0.8em;
+	padding: 5px;
+}
+
+footer {
+	width: 100%;
+	float: left;
+	background-color:  #1b2f36;
+	text-align: center;
+	margin: 0 auto;
+    left: 0;
+    bottom: 0;
+  
+}
+
+button {
+	background-color: orange;
+	font-family: 'Open Sans', sans-serif;
+	color:  white;
+	font-weight: 700;
+	padding: 10px;
+	border: none;
+	width: 150px;
+}
+
+button:hover {
+	background-color: #1b2f36;
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	color: #1b2f36;
+	font-size: 2em;
+	font-weight: 800;
+	text-align: left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+.texto {
+	padding: 10px;
+	width: 500px;
+	margin:0 auto;
+	margin:20px;
+	font-family: 'Tajawal', sans-serif;
+	float: left;
+	text-align: left;
+	font-size: 22px;
+
+}
+
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 1.3em;
+	color: orange;
+	padding: 15px;
+
+}
+
+.cont {
+	font-family: 'Tajawal', sans-serif;
+	text-align: center;
+}
+
+.con {
+	text-align: center;
+	padding: 0;
+	padding-top: 40px;
+	margin-top: 40px;
+}
+
+.contact {
+	margin-bottom: 160px;
+}
+
